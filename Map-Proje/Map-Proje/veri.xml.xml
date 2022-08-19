@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding?"UTF-16"?>
+<koordinatlar>
+
+      <koordinat>
+          <ID>1</ID>
+          <lat>36,2222</lat>
+          <long>46,5555</long>
+         <datetime> 18.08.2022 01:15</datetime>
+      </koordinat>
+
+      <koordinat>
+          <ID>2</ID>
+          <lat>55,2222</lat>
+          <long>47,5555</long>
+         <datetime> 18.08.2022 01:18</datetime>
+      </koordinat>
+</koordinatlar>
